@@ -27,5 +27,27 @@ header {
 }
 
 header label {
-  
+  color: #788188;
+  cursor: pointer;
+  display: inline-block;
+  line-height: 4.25em;
+  font-size: .667em;
+  font-weight: bold;
+  padding: 0 1em;
 }
+
+header label:hover {
+  background: #2e353b;
+}
+
+
+
+
+
+
+
+
+
+
+
+
