@@ -69,10 +69,10 @@ header label:hover {
   background-image: url('../images/img_4.jpg');
 }
 
-body {
-  background-image: url('../images/img_1.jpg');
+[id^="slide"]:checked + .slide {
+  left: 0;
+  z-index: 100;
 }
-
 
 
 
